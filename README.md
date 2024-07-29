@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @PratikThapa
-- 👀 I’m interested in Front-End Development designing as well as in UI/UX .
+- 👀 I’m interested in Front-End Development designing and UI/UX.
 - 🌱 I’m currently learning Computer Science and Software development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pratikthapa288@gmail.com
--
+
 
 <!---
 PratikThapa/PratikThapa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
